@@ -1,0 +1,19 @@
+{
+  "name": "my-blog-1.0",
+  "version": "0.0.1",
+  "description": "My first attempt at trying to create a personal blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "test blog"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manorel/my-blog-1.0.git"
+  },
+  "author": "Manorel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manorel/my-blog-1.0/issues"
+  },
+  "homepage": "https://github.com/Manorel/my-blog-1.0#readme"
+}
